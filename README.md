@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @An0nym0usn3thunt3r
+- 👀 I’m interested in making reponsive websites and templates with database integrations for desktop and android
+- 🌱 I’m currently learning Android Kotlin
+- 💞️ I’m looking to collaborate on crossplatporfing webapps and try to optimize the following for debian and fedora
+- 📫 How to reach me ...
